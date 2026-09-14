@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you reference this project, please cite it using the metadata below."
+title: "Optimised Design of a Battery Energy Storage System for Minimising Electricity Costs in Photovoltaic-Supplied Residential Homes"
+type: software
+authors:
+  - family-names: "El Khalil"
+    given-names: "Michel"
+year: 2026
+version: 1.0.0
